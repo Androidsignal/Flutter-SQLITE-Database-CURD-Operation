@@ -1,6 +1,6 @@
 # Flutter-SQLITE-Database-CURD-Operation
 Create,Read,Delete,Update Operations In SQlite
-``
+``  `
 import 'package:flutter/material.dart';
 
 class CaptionText extends StatelessWidget {
@@ -257,4 +257,4 @@ class Display1Text extends StatelessWidget {
       return Theme.of(context).textTheme.display1;
     }
   }
-}``
+}
